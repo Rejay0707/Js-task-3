@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+#boxcon {
+  width: 300px;
+  border: 15px solid rgb(34, 0, 128);
+  padding: 80px;
+  margin: 20px;
+}
+#click-Me {
+  background-color: red;
+  font-size: 50px;
+  margin-top: 300px;
+  margin-left: 50px;
+}
+#click-Me-1 {
+  font-size: 50px;
+  margin-left: 150px;
+  background-color: yellow;
+}
+#click-Me-2 {
+  font-size: 50px;
+  margin-left: 150px;
+  background-color: green;
+}
+.tot-con {
+  background-color: white;
+}
